@@ -1,0 +1,26 @@
+{
+ "actualizado": "2026-07-09",
+ "tickers": [
+  {
+   "ticker": "ALICORC1",
+   "empresa": "ALICORP S.A.A.",
+   "n_trimestres": 20,
+   "desde": "1T2021",
+   "hasta": "1T2026"
+  },
+  {
+   "ticker": "CVERDEC1",
+   "empresa": "SOCIEDAD MINERA CERRO VERDE S.A.A.",
+   "n_trimestres": 10,
+   "desde": "4T2023",
+   "hasta": "1T2026"
+  },
+  {
+   "ticker": "FERREYC1",
+   "empresa": "FERREYCORP S.A.A.",
+   "n_trimestres": 21,
+   "desde": "1T2021",
+   "hasta": "1T2026"
+  }
+ ]
+}
